@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: pangBodys
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: Pang
+      m_Hash: -1946893445
+      m_Sprite: {fileID: 21300000, guid: 7ccfd6b821b7c414e929c303651af17d, type: 3}
+    - m_Name: hypang
+      m_Hash: -1423630989
+      m_Sprite: {fileID: -971352507685455540, guid: 015b65f0e456144f89eb0058fc533516, type: 3}
+    - m_Name: hspang
+      m_Hash: -510327342
+      m_Sprite: {fileID: -7759244232939984061, guid: 77cd122570565441fb11141fc0dd95c2, type: 3}
+    - m_Name: sonpang
+      m_Hash: -1781607886
+      m_Sprite: {fileID: 4153492466688350644, guid: c25ffedaf0d174075a315bf262b227d3, type: 3}
+    - m_Name: jspang
+      m_Hash: -1403149095
+      m_Sprite: {fileID: 7125526055100725133, guid: bc8c54b38b9ef41429d27368f0f1d9c1, type: 3}
+    - m_Name: forestpang
+      m_Hash: 3419554
+      m_Sprite: {fileID: -7102211206022934292, guid: c1d1b54dfb37a41febca1387123eab47, type: 3}
+  - m_Name: L_Arm
+    m_Hash: -1759658809
+    m_CategoryList:
+    - m_Name: Pang
+      m_Hash: -1946893445
+      m_Sprite: {fileID: 4946261944273480048, guid: 42ab8bc9962e287439bd4d3b9b27b83e, type: 3}
+    - m_Name: Onion
+      m_Hash: -938380499
+      m_Sprite: {fileID: -3390221917031993903, guid: 999f548a13bee5e43893f2bc5f476392, type: 3}
+    - m_Name: SweetPhotato
+      m_Hash: 151998381
+      m_Sprite: {fileID: -4127843722043711526, guid: 162e40e8324ca994aba9696900722170, type: 3}
+  - m_Name: R_Arm
+    m_Hash: 1221432612
+    m_CategoryList:
+    - m_Name: Pang
+      m_Hash: -1946893445
+      m_Sprite: {fileID: -5858209432680127035, guid: 42ab8bc9962e287439bd4d3b9b27b83e, type: 3}
+    - m_Name: Onion
+      m_Hash: -938380499
+      m_Sprite: {fileID: -3477578526051336873, guid: 999f548a13bee5e43893f2bc5f476392, type: 3}
+    - m_Name: SweetPhotato
+      m_Hash: 151998381
+      m_Sprite: {fileID: -5518957918920310428, guid: 162e40e8324ca994aba9696900722170, type: 3}
+  - m_Name: L_Leg
+    m_Hash: 2056471068
+    m_CategoryList:
+    - m_Name: Pang
+      m_Hash: -1946893445
+      m_Sprite: {fileID: 221949530984191495, guid: 42ab8bc9962e287439bd4d3b9b27b83e, type: 3}
+    - m_Name: Onion
+      m_Hash: -938380499
+      m_Sprite: {fileID: -2332356855530425355, guid: 999f548a13bee5e43893f2bc5f476392, type: 3}
+    - m_Name: SweetPhotato
+      m_Hash: 151998381
+      m_Sprite: {fileID: 8846165498720320656, guid: 162e40e8324ca994aba9696900722170, type: 3}
+  - m_Name: R_Leg
+    m_Hash: -1522308097
+    m_CategoryList:
+    - m_Name: Pang
+      m_Hash: -1946893445
+      m_Sprite: {fileID: 5028131982733917349, guid: 42ab8bc9962e287439bd4d3b9b27b83e, type: 3}
+    - m_Name: Onion
+      m_Hash: -938380499
+      m_Sprite: {fileID: 3899546548142004079, guid: 999f548a13bee5e43893f2bc5f476392, type: 3}
+    - m_Name: SweetPhotato
+      m_Hash: 151998381
+      m_Sprite: {fileID: -2739492825954668340, guid: 162e40e8324ca994aba9696900722170, type: 3}
